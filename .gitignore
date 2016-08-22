@@ -1,0 +1,6 @@
+*.suo
+*.user
+/GlobalizedNumericTextBox/bin/Debug
+/GlobalizedNumericTextBox/obj/Debug
+/GlobalizedNumericTextBoxDemo/bin/Debug
+/GlobalizedNumericTextBoxDemo/obj/Debug
